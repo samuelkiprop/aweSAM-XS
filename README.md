@@ -7,7 +7,7 @@ React developer
 I value simple content structure, clean design patterns, and thoughtful interactions. I like to code things from scratch, and enjoy bringing ideas to life
 
 * 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [https://awesam.me](http://https://awesam.me)
+* 🖥️  See my portfolio at [https://awesam.me](https://awesam.me)
 * ✉️  You can contact me at [sam.kiprop23@gmail.com](mailto:sam.kiprop23@gmail.com)
 * 🚀  I'm currently working on [Scandiweb E-commerce store](http://https://awesam.me)
 * 🧠  I'm learning MongoDB, Express & Nodejs
