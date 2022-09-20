@@ -9,7 +9,7 @@ I value simple content structure, clean design patterns, and thoughtful interact
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [https://awesam.me](https://awesam.me)
 * ✉️  You can contact me at [sam.kiprop23@gmail.com](mailto:sam.kiprop23@gmail.com)
-* 🚀  I'm currently working on [Scandiweb E-commerce store](http://https://awesam.me)
+* 🚀  I'm currently working on [Scandiweb E-commerce store](https://scandistore.netlify.app/)
 * 🧠  I'm learning MongoDB, Express & Nodejs
 * 🤝  I'm open to collaborating on React frontend development projects.
 * ⚡  I am the lord of aweSAMness
