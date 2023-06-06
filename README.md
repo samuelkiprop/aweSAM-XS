@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) am Sam
 ===========================================================================================================================
 
-React developer
+Full Stack Developer
 ---------------
 
 I value simple content structure, clean design patterns, and thoughtful interactions. I like to code things from scratch, and enjoy bringing ideas to life
@@ -9,10 +9,7 @@ I value simple content structure, clean design patterns, and thoughtful interact
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [https://awesam.tech](https://awesam.tech)
 * ✉️  You can contact me at [sam.kiprop23@gmail.com](mailto:sam.kiprop23@gmail.com)
-* 🚀  I'm currently working on [Scandiweb E-commerce store](https://scandistore.netlify.app/)
-* 🧠  I'm learning MongoDB, Express & Nodejs
-* 🤝  I'm open to collaborating on React frontend development projects.
-* ⚡  I am the lord of aweSAMness
+* 🤝  I'm open to collaborating on Angular and Node projects.
 
 ### Skills
 
